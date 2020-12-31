@@ -8,7 +8,7 @@
     "header": {
         "title": "DIY",
         "logo": "images/Screenshot 2020-11-15 at 21.50.37.png",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Features",
